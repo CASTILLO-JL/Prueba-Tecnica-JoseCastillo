@@ -1,0 +1,19 @@
+CONCLUSIONES:
+Se realizó la prueba automatizada (E2E), a la página https://www.saucedemo.com/ en la cual se realizó lo siguiente:
+1. Inicio de sesión exitoso, con las credenciales de usuario y contraseña indicados.
+2. Selección de dos productos, los cuales fueron añadidos al carrito de compras exitosamente.
+3. Verificación a detalle de los productos agregados.
+4. En las etapas finales se llenó correctamente un formulario de información personal.
+5. Comprobación final de los productos agregados y detalle de factura a pagar.
+6. Finalización exitosa del pedido.
+
+Cabe mencionar que este escenario que se automatizó, es un escenario en el cual todo sale bien, o sea el usuario realizó
+la compra sin problema alguno.
+Sin embargo, lo ideal o recomendable sería probar escenarios que posiblemente son dificiles que sucedan.
+También se recomienda probar escenarios con errores comunes como:
+1. aplicar validaciones en el inicio de sesion.
+2. verificación en el detalle de los productos agregados al carrito
+3. comprobación de factura final
+4. etc.
+
+
